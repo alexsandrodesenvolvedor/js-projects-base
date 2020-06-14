@@ -1,0 +1,19 @@
+{
+  "name": "server-rest-api",
+  "version": "1.0.0",
+  "description": "Projeto base para servidor api restfull",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Rodando...\\\""
+  },
+  "keywords": [
+    "rest"
+  ],
+  "author": "Alexandro Guedes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
